@@ -61,3 +61,6 @@ This project is a proof of concept room tracking application. Over the semester,
 ## Follow the tutorials
 
 [I have an accompanying tutorial for this project, should you want to follow along](https://joeappleton18.github.io/devops_2022_2023_notes/)
+
+## Authors
+- Viktor Mora
